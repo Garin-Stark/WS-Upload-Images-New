@@ -1,3 +1,5 @@
+#6D/19090146/GarinIrsyadChoriri
+#6B/19090085/NurulArifiahGunarsih
 import os,datetime
 from tokenize import Name
 import urllib.request
